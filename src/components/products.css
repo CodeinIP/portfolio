@@ -1,0 +1,10 @@
+.projectMain{
+    /* border:1px solid; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+.projectMain div{
+    padding:10px;
+}

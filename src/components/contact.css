@@ -1,0 +1,17 @@
+.contactMain{
+    width: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+span{
+    font-size: 18px;
+    font-weight: bold;
+}
+.contactMain div:hover{
+    cursor: pointer;
+}
+span:hover{
+    color: orange;
+}
